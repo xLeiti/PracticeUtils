@@ -35,7 +35,7 @@ Manage saved positions, spawn points, and teleport between players or locations.
 Find grenade lineups automatically by scanning a range of angles.
 
 - **Define Target Zones** – set up to 6 zones (boxes) where you want grenades to land.
-- **Scan Angles** – the script throws virtual grenades at many pitch/yaw combinations and records those that land in your zones.
+- **Scan Angles** – the script automatically throws grenades at many pitch/yaw combinations and records those that land in your zones.
 - **Preview Throws** – test a single throw with the current reference.
 - **List & Dump Results** – browse found lineups and get console commands to reproduce them.
 - **Supported Throw Styles:** Left/Middle/Right (Duck) (Jump) (W, A, S, D)
