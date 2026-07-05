@@ -38,6 +38,7 @@ Find grenade lineups automatically by scanning a range of angles.
 - **Scan Angles** – the script throws virtual grenades at many pitch/yaw combinations and records those that land in your zones.
 - **Preview Throws** – test a single throw with the current reference.
 - **List & Dump Results** – browse found lineups and get console commands to reproduce them.
+- **Supported Throw Styles:** Left/Middle/Right (Duck) (Jump) (W, A, S, D)
 
 ### 🔹 Printers (Logging)
 Get real‑time feedback in team radio chat.
@@ -119,7 +120,7 @@ Common settings:
 | `autosave_lineups` | bool | Automatically save position/angles when throwing a grenade (useful for recording lineups). |
 | `use_opens_buy_menu` | bool | Restores your `cl_use_opens_buy_menu` setting after menus close. |
 | `auto_menuscroll_remap` | bool | Enables mouse wheel navigation in menus. |
-| `path` | string | Base folder path before `practiceutils` (e.g., `mycfg/addon`) – empty means `cfg/`. |
+| `path` | string | Base folder path between `cfg` and `practiceutils` (e.g., `mycfg/addon`) – empty means `cfg/`. |
 | `noblind` | bool | Prevent flashbangs from blinding. |
 
 ---
