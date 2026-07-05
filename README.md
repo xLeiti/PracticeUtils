@@ -25,8 +25,8 @@ Manage saved positions, spawn points, and teleport between players or locations.
 
 - **Save & Load Positions** – save your current position/angle, list them, and teleport yourself or others.
 - **Saved Positions are persistent** - Up to 10 positions per map can be saved. Those positions can be loaded again on new sessions.
-- **Spawn Squares** – clickable squares on spawn points to instantly teleport.
-- **Position Balloons** – visual markers on saved positions that you can shoot or interact with.
+- **Spawn Squares** – interactable squares on spawn points to teleport to them.
+- **Position Balloons** – interactable balloon markers on saved positions that you can interact with to teleport.
 - **Player Swapping** – swap positions with another player.
 - **Teleport (tp)** – teleport any player to any other player’s location.
 - **Bot Placement** – place bots on saved positions.
