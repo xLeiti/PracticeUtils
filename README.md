@@ -30,6 +30,7 @@ Manage saved positions, spawn points, and teleport between players or locations.
 - **Player Swapping** – swap positions with another player.
 - **Teleport (tp)** – teleport any player to any other player’s location.
 - **Bot Placement** – place bots on saved positions.
+- **Autosave lineup positions** - setting option to automatically save the position when you throw a grenade.
 
 ### 🔹 LineupFinder
 Find grenade lineups automatically by scanning a range of angles.
