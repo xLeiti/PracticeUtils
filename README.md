@@ -45,7 +45,7 @@ Get real‑time feedback in team radio chat.
 
 - **Print Flash** – shows flashbang exposure duration, distance, and angle.
 - **Print Nade** – reports grenade air time.
-- **Print Damage** – displays damage dealt to players and the weapon used.
+- **Print Damage** – enables godmode and displays damage dealt to players and the weapon used.
 
 ### 🔹 Other Practice Features
 - **X‑Ray Glow** – see all players through walls.
@@ -84,7 +84,7 @@ Get real‑time feedback in team radio chat.
 | **Printers** |
 | `printflash [on/off]` | `[on/off]` (optional) | Toggle flashbang exposure reporting. |
 | `printnade [on/off]` | `[on/off]` (optional) | Toggle grenade air time reporting. |
-| `printdamage [on/off]` | `[on/off]` (optional) | Toggle damage reporting. |
+| `printdamage [on/off]` | `[on/off]` (optional) | Toggle godmode and damage reporting. |
 | **Other** |
 | `xray [on/off]` | `[on/off]` (optional) | Toggle global X‑Ray glow outline on all players. |
 | `noblind [on/off]` | `[on/off]` (optional) | Toggle flashbang immunity. |
