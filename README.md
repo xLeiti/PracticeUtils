@@ -13,7 +13,7 @@ It's implemented fully with tools provided by valve: configs and cs_script.
 
 1. Place the folder `practiceutils` in your `csgo/cfg/` directory.
 2. Adjust settings in `practiceutils/main.cfg`, `practiceutils/settings.cfg` and `practiceutils/practiceConvars.cfg`
-3. Add following section to your launch options `-disable_workshop_command_filtering -exec "practiceutils/main.cfg"`
+3. Add following section to your launch options `-disable_workshop_command_filtering +exec "practiceutils/main"`
 4. Enter an offline Map and enter following command into the console `+practiceutils`.
 
 ---
