@@ -5,6 +5,8 @@ It's implemented fully with tools provided by valve: configs and cs_script.
 
 > **Author:** Leiti  
 
+<img width="1440" height="1080" alt="202607~4" src="https://github.com/user-attachments/assets/51c5a75d-8607-4524-947a-bcb4d9f39a70" />
+
 ---
 
 ## 📦 Installation
