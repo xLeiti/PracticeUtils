@@ -119,7 +119,6 @@ Common settings:
 | `spawnsquares_keepangle` | bool | Keep view angle when teleporting via squares. |
 | `play_sounds` | bool | Play UI sounds (clicks, confirmations, etc.). |
 | `autosave_lineups` | bool | Automatically save position/angles when throwing a grenade (useful for recording lineups). |
-| `use_opens_buy_menu` | bool | Restores your `cl_use_opens_buy_menu` setting after menus close. |
 | `auto_menuscroll_remap` | bool | Enables mouse wheel navigation in menus. |
 | `path` | string | Base folder path between `cfg` and `practiceutils` (e.g., `mycfg/addon`) – empty means `cfg/`. |
 | `noblind` | bool | Prevent flashbangs from blinding. |
@@ -139,7 +138,5 @@ Common settings:
 
 **PracticeUtils** is a free tool created by **Leiti**.  
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-
----
 
 Enjoy practicing! 🎮
