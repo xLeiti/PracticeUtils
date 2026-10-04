@@ -13,7 +13,7 @@ It's implemented fully with tools provided by Valve: configs and `cs_script`.
 
 1. Place the folder `practiceutils` in your `csgo/cfg/` directory.
 2. Adjust settings in `practiceutils/settings.cfg` (global settings) and optionally create map‑specific spawn configs in `practiceutils/maps/` (see [Spawn Management](#-spawn-management) below).
-3. Add the following to your **launch options**: `-disable_workshop_command_filtering +exec "practiceutils/main"`(`-disable_workshop_command_filtering` is required for the cfg to work on workshop maps.)
+3. Add the following snippet to your **launch options**: `-disable_workshop_command_filtering +exec "practiceutils/main"`(`-disable_workshop_command_filtering` is required for the cfg to work on workshop maps.)
 4. Enter an offline map and type the following into the console: `+practiceutils`
 
 ---
